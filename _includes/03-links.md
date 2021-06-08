@@ -1,1 +1,1 @@
-Replace this with a link to your a GitHub or social media profile.
+Learn all about [sea otters](https://en.wikipedia.org/wiki/Sea_otter)!
