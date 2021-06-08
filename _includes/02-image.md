@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![photo of a cute otter](https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Sea_Otter_%28Enhydra_lutris%29_%2825169790524%29_crop.jpg/220px-Sea_Otter_%28Enhydra_lutris%29_%2825169790524%29_crop.jpg)
